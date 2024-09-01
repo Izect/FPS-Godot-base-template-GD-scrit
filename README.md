@@ -1,0 +1,1 @@
+# FPS-Godot-base-template-GD-scrit
