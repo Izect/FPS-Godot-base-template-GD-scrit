@@ -1,3 +1,5 @@
 # FPS-Godot-base-template-GD-scrit
 
-DUMBASS() ADD THE template only not the main proj here
+DUMBASS() ADD THE TEMPLATE YOU FOUND ONLY THE TEMPLATE 
+I'M TOO LAZY TO ANIMATE ALL THAT SHITZ I JUST NEED THE BASE with movement for
+the doomlike
